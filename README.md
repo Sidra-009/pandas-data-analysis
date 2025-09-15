@@ -60,6 +60,7 @@ It reflects my journey of exploring **data analysis with Pandas** and building a
 ## 👩‍💻 Author
 
 **Sidra Saqlain✨**
+---
 📌 *Data Science Student | Passionate about Data Analysis & Problem-Solving*
 
 
