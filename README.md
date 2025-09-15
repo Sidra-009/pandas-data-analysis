@@ -43,10 +43,12 @@ It includes different datasets and covers a variety of operations such as:
 3. Open Jupyter Notebook to explore:
 
    ```bash
+
    jupyter notebook
+
    ```
 
----
+
 
 ## 🎯 Purpose
 
@@ -65,5 +67,3 @@ It reflects my journey of exploring data analysis concepts and strengthening my 
 ---
 ✨ If you found this helpful, don’t forget to ⭐ the repository!
 
-
-Do you also want me to add a **"Milestones / What I Learned"** section at the end to make it more personal?
